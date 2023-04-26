@@ -25,7 +25,7 @@ function App() {
 
           return (
             <>
-              <p> {thred_title} </p>
+              <p> hej ja ghetar var  </p>
             </>
           );
         })}
